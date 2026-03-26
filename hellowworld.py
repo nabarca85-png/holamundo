@@ -1,1 +1,1 @@
-print ("holnico2 github")
+print ("holnico2")
